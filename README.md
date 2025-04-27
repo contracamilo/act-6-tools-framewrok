@@ -2,6 +2,11 @@
 
 Una aplicación web moderna para la gestión de tareas desarrollada con Vue.js 3, TypeScript y Pinia para el manejo del estado.
 
+Demo.
+
+https://github.com/user-attachments/assets/6cd211aa-cabb-4fdc-8160-fc195a042108
+
+
 ## 🚀 Características
 
 - Crear, editar, eliminar y marcar tareas como completadas
